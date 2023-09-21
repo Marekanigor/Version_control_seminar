@@ -39,8 +39,6 @@ P.S. press q to quit
 P.S. to create a new branch and checkout at the same time using 1 line of code:
 - git checkout -b vetka1
 
-Stop playing now.
-
 9. .gitignore
 - to ignore a file, type in the name of it on the .gitignore file (that are on the left, so they are in the same folder, but you do not want to upload them for everyone to see, for example, whne uploading to the GitHub, to keep them private)
 - if you want files of the same category to be ignored, for example: *.txt -if you want to ignore all .txt files...
@@ -60,3 +58,12 @@ Step 2: push local repository (my current file in VS code) to my online account
 - copy-paste the 3 lines of code provided on GitHub
 
 Step 3: edit your file on your online account - press pencil to edit, when you are done: press commit changes (do not forget to leave a message to commemorate the commit).
+
+Step 4: git pull - to integrate the new version to your local repository.
+
+New commands:
+- git push
+- git pull
+- cd (file name) - if using someone else’s, forking over their work.
+
+P.S. to fork over someone else’s work and edit the code, find the account and code you are interested in, fork it, then press the copy code link. Enter that link in your VS code terminal. Then cd the file to allow the computer to edit. Create a new branch and edit ONLY in that branch.
