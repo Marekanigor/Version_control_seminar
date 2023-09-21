@@ -32,3 +32,5 @@ P.S. press q to quit
 - git branch name - create a new branch
 - git checkout name - go to that branch
 - git merge (merge 2 branches - to merge with main branch - checkout to main first)
+
+ready.set.go = 3.2.1
