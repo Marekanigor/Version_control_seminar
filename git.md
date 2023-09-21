@@ -39,4 +39,4 @@ P.S. press q to quit
 P.S. to create a new branch and checkout at the same time using 1 line of code:
 - git checkout -b vetka1
 
-Stop now.
+Stop playing now.
