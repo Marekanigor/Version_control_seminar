@@ -15,6 +15,8 @@ At the top press file => auto save (make sure there is a галочка)
 P.S. git commit -am "New commit message" - save commits without adding the file and changes first. Much quicker and more efficient.
 
 4. git log - see my commits and the time they were made
+- git log --graph - to see the log in a more visual way
+- an even better graph is by downloading git graph, then to use it - choose the middle thing on the left, like branches seperating, then choose the almost last option, before the 3 dots, it is similar tovseveral lines with circles at the top, ta-da! In a new window - you can see the easiest to comprehend graph of your log: the commits and branches, next to each - their last commit saved.
 
 P.S. press q to quit
 
