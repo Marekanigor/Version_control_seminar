@@ -31,5 +31,4 @@ P.S. press q to quit
 8. git branch - see all your branches and see which one you are in
 - git branch name - create a new branch
 - git checkout name - go to that branch
-
-Stop now
+- git merge (merge 2 branches - to merge with main branch - checkout to main first)
