@@ -29,6 +29,12 @@ P.S. press q to quit
 - 4b16 188e (first 4 symbols of one commit and first 4 symbols of the other to compare the version - used when comparing not with the latest version in the log)
 
 8. git branch - see all your branches and see which one you are in
-- git branch name - create a new branch
-- git checkout name - go to that branch
-- git merge (merge 2 branches - to merge with main branch - checkout to main first)
+- git branch vetka1 - create a new branch
+- git checkout vetka1 - go to that branch
+- git merge vetka1 (merge 2 branches - to merge with main branch - checkout to main first)
+- git branch -d vetka1 - delete branch. Can only do that after you checkout from this branch to another one,like your main one,
+
+P.S. to create a new branch and checkout at the same time using 1 line of code:
+- git checkout -b vetka1
+
+Stop now.
