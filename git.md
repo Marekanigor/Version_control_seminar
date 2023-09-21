@@ -28,3 +28,8 @@ P.S. press q to quit
 - 4b16 (first 4 symbols) - to see the changes made from the commit which symbols you typoed and latest version
 - 4b16 188e (first 4 symbols of one commit and first 4 symbols of the other to compare the version - used when comparing not with the latest version in the log)
 
+8. git branch - see all your branches and see which one you are in
+- git branch name - create a new branch
+- git checkout name - go to that branch
+
+Stop now
