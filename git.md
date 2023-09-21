@@ -40,3 +40,7 @@ P.S. to create a new branch and checkout at the same time using 1 line of code:
 - git checkout -b vetka1
 
 Stop playing now.
+
+9. .gitignore
+- to ignore a file, type in the name of it on the .gitignore file (that are on the left, so they are in the same folder, but you do not want to upload them for everyone to see, for example, whne uploading to the GitHub, to keep them private)
+- if you want files of the same category to be ignored, for example: *.txt -vif you want to ignore all .txt files...
