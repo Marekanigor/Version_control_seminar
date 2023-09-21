@@ -44,3 +44,8 @@ Stop playing now.
 9. .gitignore
 - to ignore a file, type in the name of it on the .gitignore file (that are on the left, so they are in the same folder, but you do not want to upload them for everyone to see, for example, whne uploading to the GitHub, to keep them private)
 - if you want files of the same category to be ignored, for example: *.txt -vif you want to ignore all .txt files...
+
+Coding is amazing!!! I love it, I feel so powerful when I type it, like I can do anything, superhero style. 
+When I understand it and can do so without following instructions to the letter - it is the most flawless
+state ever. Like nothing else exists in the world. It is so easy to sink into that feeling and not notice as 
+time flies by...
