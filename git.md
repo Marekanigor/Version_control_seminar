@@ -64,6 +64,7 @@ Step 4: git pull - to integrate the new version to your local repository.
 New commands:
 - git push
 - git pull
+- git clone (link to the fork code)
 - cd (file name) - if using someone else’s, forking over their work.
 
-P.S. to fork over someone else’s work and edit the code, find the account and code you are interested in, fork it, then press the copy code link. Enter that link in your VS code terminal. Then cd the file to allow the computer to edit. Create a new branch and edit ONLY in that branch.
+P.S. to fork over someone else’s work and edit the code, find the account and code you are interested in, fork it, then press the copy code link. Enter that link in your VS code terminal after  the words **git clone**. Then cd the file to allow the computer to edit. Create a new branch and edit ONLY in that branch.
