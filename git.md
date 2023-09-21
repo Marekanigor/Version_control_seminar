@@ -44,3 +44,15 @@ Stop playing now.
 9. .gitignore
 - to ignore a file, type in the name of it on the .gitignore file (that are on the left, so they are in the same folder, but you do not want to upload them for everyone to see, for example, whne uploading to the GitHub, to keep them private)
 - if you want files of the same category to be ignored, for example: *.txt -vif you want to ignore all .txt files...
+
+
+
+
+
+
+## GitHub: add to an online repository (not local)
+Step 1: create an account on GitHub & merge with your local computer
+- allow access (seems scary at first)
+Step 2: push local repository (my current file in VS code) to my online account
+- copy-paste the 3 lines of code provided on GitHub
+Step 3: edit your file on your online account - press pencil to edit, when you are done: press commit changes (do not forget to leave a message to commemorate the commit).
